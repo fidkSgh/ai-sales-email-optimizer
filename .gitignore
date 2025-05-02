@@ -18,6 +18,9 @@
 .env.test.local
 .env.production.local
 
+# Add .env to prevent committing API keys
+.env
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
